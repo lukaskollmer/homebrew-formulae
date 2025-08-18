@@ -1,4 +1,11 @@
-# `lukaskollmer/homebrew-formulae
+# `lukaskollmer/homebrew-formulae`
+
+## Setup
+```bash
+brew tap lukaskollmer/formulae
+```
+
+## Formulae
 
 <!-- project_table_start -->
 | Project                                          | Description                                      | Install               |

@@ -14,6 +14,6 @@ class Ssutil < Formula
     end
   end
   def install
-    bin.install ssutil
+    bin.install "ssutil"
   end
 end

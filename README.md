@@ -1,4 +1,4 @@
-# `lukaskollmer/homebrew-formulae`
+# lukaskollmer/homebrew-formulae
 
 ## Setup
 ```bash

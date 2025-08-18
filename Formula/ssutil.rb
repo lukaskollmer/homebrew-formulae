@@ -5,18 +5,18 @@
 class Ssutil < Formula
   desc "Place ios simulator screenshots in device bezels"
   homepage "https://github.com/lukaskollmer/ssutil"
-  url "https://github.com/lukaskollmer/ssutil/archive/refs/tags/0.1.2.tar.gz"
-  sha256 "bb4b5a7743f74de05d6223ea7ea0fbd9b6aceca3935683fa410510deb4baf7d0"
+  url "https://github.com/lukaskollmer/ssutil/archive/refs/tags/0.2.0.tar.gz"
+  sha256 "003d23f7943844db7354484dac026724c4c972974606e1c51e5ecab0c8c9d7f2"
 
   on_macos do
     on_intel do
-      url "https://github.com/lukaskollmer/ssutil/releases/download/0.1.2/ssutil-0.1.2-darwin-amd64.tar.gz"
-      sha256 "7c03b0e31ced5b7a3904dcb207c5b8aecf917fa787cf2e60a313ca02f708bc31"
+      url "https://github.com/lukaskollmer/ssutil/releases/download/0.2.0/ssutil-0.2.0-darwin-amd64.tar.gz"
+      sha256 "e72410901f189b056fff6bc1c52e118a6bf0239fd1d88b30dfc9ec4726452912"
     end
 
     on_arm do
-      url "https://github.com/lukaskollmer/ssutil/releases/download/0.1.2/ssutil-0.1.2-darwin-arm64.tar.gz"
-      sha256 "9fd3b9409ef8173b6b5be62e75d30450730e868d67ef5dee05b91a2b7d386e10"
+      url "https://github.com/lukaskollmer/ssutil/releases/download/0.2.0/ssutil-0.2.0-darwin-arm64.tar.gz"
+      sha256 "33c5f5a1c80b38144982601fb417629b73c8321cd92eba63f9b1e1b12493bbaa"
     end
   end
 

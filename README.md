@@ -8,7 +8,8 @@ brew tap lukaskollmer/formulae
 ## Formulae
 
 <!-- project_table_start -->
-| Project                                          | Description                                      | Install               |
-| ------------------------------------------------ | ------------------------------------------------ | --------------------- |
-| [ssutil](https://github.com/lukaskollmer/ssutil) | Place ios simulator screenshots in device bezels | `brew install ssutil` |
+| Project                                              | Description                                      | Install                 |
+| ---------------------------------------------------- | ------------------------------------------------ | ----------------------- |
+| [flatline](https://github.com/lukaskollmer/flatline) | Swift dead code detection                        | `brew install flatline` |
+| [ssutil](https://github.com/lukaskollmer/ssutil)     | Place ios simulator screenshots in device bezels | `brew install ssutil`   |
 <!-- project_table_end -->
